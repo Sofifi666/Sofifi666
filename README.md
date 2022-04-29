@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sofifi666
+- 👋 Hi, I’m @Sofifi666, beginner of coding 
 - 👀 I’m interested in music,delicious food and ping pong
 - 🌱 I’m currently learning C++, data structures, leetcode
 - 💞️ I’m looking to collaborate on Web development/ data science projects 
